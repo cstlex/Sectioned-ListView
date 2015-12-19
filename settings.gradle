@@ -1,1 +1,1 @@
-include ':app', ':sectionedlistviewdemo'
+include ':sectionedlistadapter', ':sectionedlistviewdemo'
