@@ -11,11 +11,11 @@ ext {
     siteUrl = 'https://github.com/cstlex/Sectioned-ListView'
     gitUrl = 'https://github.com/cstlex/Sectioned-ListView.git'
 
-    libraryVersion = '0.1.0'
+    libraryVersion = '0.1.1'
 
     developerId = 'cstlex'
-    developerName = 'Sittiphol Phanvilai'
-    developerEmail = 'sittiphol@gmail.com'
+    developerName = 'Minsoo Kim'
+    developerEmail = 'minsoo8449@gmail.com'
 
     licenseName = 'MIT'
     licenseUrl = ''

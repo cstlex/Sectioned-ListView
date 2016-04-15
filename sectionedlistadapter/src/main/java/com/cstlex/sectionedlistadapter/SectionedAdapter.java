@@ -56,7 +56,7 @@ public abstract class SectionedAdapter extends BaseAdapter {
 
     public abstract Object getItem(int section, int row);
 
-    private int indexToPosition(int section, int row){
+    public int indexToPosition(int section, int row){
         int count = 0;
         for (int i = 0; i < section; i++){
             count += getNumRows(i);
